@@ -1,0 +1,1 @@
+target_sources(chess PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/pawn.cpp)
